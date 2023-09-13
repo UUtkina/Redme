@@ -2,4 +2,4 @@
 2) git checkout -b kolotailo/task1
 3) git add .
 4) git commit -m 'init commit'
-5) git push -u origin kolotailo/task1
+5) git push -u origin kolotailo/task
