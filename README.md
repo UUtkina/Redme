@@ -2,3 +2,4 @@
 - Andrei Bakhtinov
 - Mykhailo Kolotailo
 - Halina Utkina
+- Галина Уткина
